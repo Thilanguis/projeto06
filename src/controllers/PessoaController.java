@@ -1,7 +1,5 @@
 package controllers;
 
-import java.util.Iterator;
-
 import entities.Pessoa;
 import helpers.PessoaHelper;
 import repositories.PessoaRepository;
